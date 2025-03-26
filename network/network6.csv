@@ -1,0 +1,13 @@
+Library,Endpoint,Time,Speed (MB/s)
+urllib3,nbg1-speed.hetzner.com,1.99384,50.15
+httpx-sync,nbg1-speed.hetzner.com,2.28217,43.82
+httpx-async,nbg1-speed.hetzner.com,1.91133,52.32
+aiohttp,nbg1-speed.hetzner.com,1.72501,57.97
+urllib3,fsn1-speed.hetzner.com,1.74477,57.31
+httpx-sync,fsn1-speed.hetzner.com,2.15766,46.35
+httpx-async,fsn1-speed.hetzner.com,2.00843,49.79
+aiohttp,fsn1-speed.hetzner.com,1.84709,54.14
+urllib3,hel1-speed.hetzner.com,2.49581,40.07
+httpx-sync,hel1-speed.hetzner.com,2.37114,42.17
+httpx-async,hel1-speed.hetzner.com,2.61126,38.30
+aiohttp,hel1-speed.hetzner.com,2.16180,46.26
