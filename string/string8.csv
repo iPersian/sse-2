@@ -1,0 +1,6 @@
+Library,Time (s)
+re (built-in),0.01192
+regex,0.01776
+pyparsing,0.00111
+NLTK tokenization,0.38442
+spaCy tokenization,7.07307
